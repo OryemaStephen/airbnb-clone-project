@@ -124,7 +124,7 @@ All components will be built to be reusable and consistent throughout the app.
 
 ---
 
-## Team Roles and Responsibilities
+## Project Roles and Responsibilities.
 
 | Role             | Responsibilities                                                      |
 |------------------|------------------------------------------------------------------------|
